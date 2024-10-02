@@ -1,0 +1,12 @@
+body {
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+body, nav, main, footer {
+    box-sizing: border-box;
+    padding: 50px;
+}
