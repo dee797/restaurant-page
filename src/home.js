@@ -1,5 +1,6 @@
 function homePageLoad() {
     const divContent = document.querySelector("#content");
+    divContent.textContent = "";
     
     const main = document.createElement("main");
     main.textContent = "Restaurant with awesome food and amazing prices";
