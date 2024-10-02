@@ -1,4 +1,4 @@
-body {
+body, h2, p {
     margin: 0px;
     display: flex;
     flex-direction: column;
@@ -10,3 +10,4 @@ body, nav, main, footer {
     box-sizing: border-box;
     padding: 50px;
 }
+
